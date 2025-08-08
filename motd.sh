@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Welcome to the Kucl 2.5!"
+echo "Welcome to the Kucl 2.6!"
