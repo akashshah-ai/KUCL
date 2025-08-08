@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Welcome to the Kucl 2.6!"
+echo "Welcome, I am akash shah"
